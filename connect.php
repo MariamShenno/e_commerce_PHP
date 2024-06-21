@@ -1,5 +1,5 @@
 <?php
-$dsn = "mysql:host=localhost;dbname=e-commerce";
+$dsn = "mysql:host=host;dbname=dbname";
 $user = "root";
 $pass = "";
 $option = array(
